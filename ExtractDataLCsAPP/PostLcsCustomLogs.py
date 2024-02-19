@@ -6,10 +6,10 @@ import hmac
 import base64
 
 # Update the customer ID to your Log Analytics workspace ID
-customer_id = '20336ba9-a051-4a62-b9d2-0a4f8279316b'
+customer_id = '---'
 
 # For the shared key, use either the primary or the secondary Connected Sources client authentication key   
-shared_key = "mtRkKxBRvDSNtBFKt1HP0vzCoxJm+ITnff+i4S92WYl9FJoLQobWwi9vjLjFweAtIgyPfskd83f5PlzD39Qgsw=="
+shared_key = "---"
 
 # The log type is the name of the event that is being submitted
 log_type = 'CpuLogTest'
